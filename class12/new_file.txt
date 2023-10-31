@@ -1,0 +1,4 @@
+I learned how to make a new file directly by naming it with 'open'
+adding another sentence to see if 'seek' works
+add new line with append mode
+add new line with append mode and it works. WOW!!
